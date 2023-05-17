@@ -1,0 +1,8 @@
+click>=7.1.2
+requests>=2.25.1
+gradio>= 3.23.0
+pathlib
+plotly
+kaleido
+Pillow 
+ 

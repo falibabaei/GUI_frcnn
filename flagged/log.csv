@@ -1,0 +1,8 @@
+Input Files (multiple FASTA formats or a zip file with fasta files),threshold,no_label,Input Files (multiple FASTA formats or a zip file with fasta files),flag,username,timestamp
+,0,True,,,,2023-05-15 10:07:53.646380
+/home/se1131/GUI_frcnn/flagged/Input Files multiple FASTA formats or a zip file with fasta files/tmpnws0wnqu.jpg,0,True,,,,2023-05-15 10:10:05.228749
+,0,False,,,,2023-05-15 12:11:33.678580
+,100,True,,,,2023-05-15 12:11:53.998922
+/home/se1131/GUI_frcnn/flagged/Input an Image/tmp_xabhw0m.jpg,58,True,/home/se1131/GUI_frcnn/flagged/Image with bounding box/tmpjlce1asm.png,,,2023-05-15 17:02:15.721021
+/home/se1131/GUI_frcnn/flagged/Input an Image/tmpisv4cvgk.jpg,58,True,/home/se1131/GUI_frcnn/flagged/Image with bounding box/tmpl8olibgc.png,,,2023-05-15 17:02:25.376988
+/home/se1131/GUI_frcnn/flagged/Input an Image/tmprcea9tw5.jpg,57,False,/home/se1131/GUI_frcnn/flagged/Image with bounding box/tmp64kiwwyc.png,,,2023-05-16 10:39:44.239676
